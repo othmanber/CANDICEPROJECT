@@ -9,6 +9,7 @@ body {
   background-image: url(../IMAGES/background2.jpg);
   background-position: cover;
   background-size: 100%;
+  background-repeat: no-repeat;
 }
 
 /*navigation bar*/
