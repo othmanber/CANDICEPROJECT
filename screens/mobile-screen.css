@@ -1,0 +1,13 @@
+@media screen and (max-width: 468px) {
+  .navbar {
+    display: flex;
+  }
+
+  .textcontainer {
+    gap: 0px;
+  }
+
+  .button-container {
+    margin-bottom: 50px;
+  }
+}
