@@ -158,7 +158,7 @@ h1.contactus {
   margin-top: 50px;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 15px;
 }
 
 textarea,
@@ -176,6 +176,7 @@ label {
   font-size: 20px;
   color: rgb(255, 255, 255);
   display: flex;
+  justify-content: center;
 }
 
 .input-group {
@@ -189,9 +190,14 @@ label {
   justify-content: center;
 }
 
-.submit-button {
-  background-color: white;
+a.thankyou {
+  background-color: rgb(255, 255, 255);
   cursor: pointer;
   border: none;
-  padding: 15px 40px;
+  padding: 13px 40px;
+  font-size: 17px;
+  margin-top: 30px;
+  text-decoration: none;
+  color: black;
 }
+
