@@ -162,12 +162,13 @@ h1.contactus {
 }
 
 textarea,
-input[type="text"] {
+input {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
   border: 3px solid white;
   background: transparent;
+  color: white;
 }
 
 label {
@@ -188,9 +189,9 @@ label {
   justify-content: center;
 }
 
-.submit-button{
+.submit-button {
   background-color: white;
   cursor: pointer;
   border: none;
-  padding: 17px 40px;
+  padding: 15px 40px;
 }
